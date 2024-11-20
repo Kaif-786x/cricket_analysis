@@ -1,10 +1,10 @@
 # India Tour of Australia
 ### India Squad:
-![Indian Flag](https://images.app.goo.gl/DbtAwAYX29s7serS7)
+![Indian Flag](https://images.app.goo.gl/DbtAwAYX29s7serS7.jpg)
 
 Rohit Sharma (C), Jasprit Bumrah (VC), Ravindra Jadeja, Yashasvi Jaiswal, Dhruv Jurel (Wk), Sarfaraz Khan, Virat Kohli, Prasidh Krishna, Ravichandran Ashwin, Mohammad Shami, Rishabh Pant (Wk), KL Rahul, Harshit Rana, Abhimanyu Easwaran, Shubman Gill, Nitish Kumar Reddy, Mohammed Siraj, Washington Sundar
 ### Australia Squad:
-![Australian Flag](https://images.app.goo.gl/BwAyt4933QaUpVNk9)
+![Australian Flag](https://images.app.goo.gl/BwAyt4933QaUpVNk9.jpg)
 
 Pat Cummins (C), Scott Boland, Alex Carey (Wk), Josh Hazlewood, Travis Head, Josh Inglis (Wk), Usman Khawaja, Marnus Labuschagne, Nathan Lyon, Mitch Marsh, Nathan McSweeney, Steve Smith, Mitchell Starc
 ### Matches:
